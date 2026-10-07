@@ -1,0 +1,24 @@
+{
+  "name": "hungry-bowl",
+  "version": "1.0.0",
+  "description": "<short description of your app>",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jayt-21/HungryBowl"
+  },
+  "homepage": "https://github.com/jayt-21/HungryBowl#readme",
+  "author": "JAY",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
