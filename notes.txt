@@ -1,0 +1,9 @@
+
+props :
+properties of a fuctional component passed it to show data
+
+conflict driven UI:
+website is driven by conflicts and hence controlling ui using data from backend like different ui in kolkata and different in delhi
+
+whenever you are looping over a data ypu must assign them a unique id but why?
+so if we don' assignt any id any change in any component will make all component to be re rendered as react doesn't which component came across change so to optimize it we add id to each sibling so react can differentiate 
